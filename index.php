@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0318)https://sports.ppmarketing.xyz/?utm_medium=paid&utm_source=ig&utm_id=120216641263260361&utm_content=120217542208270361&utm_term=120216641263270361&utm_campaign=120216641263260361&fbclid=PAY2xjawJlsDBleHRuA2FlbQEwAGFkaWQBqxmGEggPqQGnUvylm0bB9AxvqNDnikt6Mv51DLtDfmH87kjKAOhTNYssRBS9ZgLcr3vEZOU_aem_l3oINR9DZGDO_WNg38JLnQ -->
+
 <html lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -59,12 +59,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <link rel="stylesheet" id="elementor-post-72-css" href="./Premium Exchange Master Accounts_files/post-72.css" media="all">
 <link rel="stylesheet" id="elementor-post-97-css" href="./Premium Exchange Master Accounts_files/post-97.css" media="all">
 <link rel="stylesheet" id="google-fonts-1-css" href="./Premium Exchange Master Accounts_files/css(1)" media="all">
-<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""><!--[if IE]>
-<script src="https://sports.ppmarketing.xyz/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=4.4.1" id="astra-flexibility-js"></script>
-<script id="astra-flexibility-js-after">
-flexibility(document.documentElement);
-</script>
-<![endif]-->
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
 <script src="./Premium Exchange Master Accounts_files/jquery.min.js.download" id="jquery-core-js"></script>
 <script src="./Premium Exchange Master Accounts_files/jquery-migrate.min.js.download" id="jquery-migrate-js"></script>
 <script src="./Premium Exchange Master Accounts_files/v4-shims.min.js.download" id="font-awesome-4-shim-js"></script>
