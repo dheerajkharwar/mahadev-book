@@ -1,4 +1,5 @@
 <?php
+include('404.php');
 die();
 ?>
 <!DOCTYPE html>
