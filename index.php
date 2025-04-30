@@ -1,6 +1,6 @@
 <?php
-include('404.php');
-die();
+// include('404.php');
+// die();
 ?>
 <!DOCTYPE html>
 
